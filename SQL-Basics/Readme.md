@@ -3,6 +3,7 @@ The queries in this section must be executed in sequence of their serial number 
 It covers topics like:
 
 1)  Datatypes
+
         i)      INT
         ii)     SMALL INT
         iii)    DECIMAL
@@ -13,6 +14,7 @@ It covers topics like:
         viii)   TEXT
     
 2)  Data Definition Language (DDL)
+
         i)    CREATE
         ii)   ALTER
         iii)  ADD
@@ -20,18 +22,22 @@ It covers topics like:
         v)    TRUNCATE
 
 3)  Data Manipulation Language (DML)
+
         i)    INSERT
         ii)   UPDATE
         iii)  DELETE
 
 4)  Data Query Language (DQL)
+
         i)    SELECT
     
 5)  Data Control Language (DCL)
+
         i)    GRANT
         ii)   REVOKE
     
 6)  SQL Clauses
+
         i)    WHERE
         ii)   LIKE
         iii)  TOP
@@ -41,6 +47,7 @@ It covers topics like:
         vii)  HAVING
 
 7)  Joins
+
         i)    INNER JOIN
         ii)   LEFT JOIN
         iii)  RIGHT JOIN
@@ -49,6 +56,7 @@ It covers topics like:
         vi)   Self Join
 
 8)  SQL Operators
+
         i)    %, +, -, /, *
         ii)   <>, !=, >, <, >=, <=, =
         iii)  AND, OR, NOT
@@ -59,6 +67,7 @@ It covers topics like:
         viii) EXISTS
 
 9)  Constraints
+
         i)    NOT NULL
         ii)   DEFAULT
         iii)  UNIQUE
@@ -67,12 +76,14 @@ It covers topics like:
         vi)   FOREIGN KEY
 
 10)  Set Clauses
+
         i)    UNION
         ii)   UNION ALL
         iii)  INTERSECT
         iv)   EXCEPT
 
 11) Index
+
         i)    INDEX
         ii)   Composite Index
         iii)  CLUSTERED INDEX
@@ -83,6 +94,7 @@ It covers topics like:
 13) SQL Functions
 
 14) Transactional Control Language (TCL)
+
         i)    COMMIT
         ii)   ROLLBACK
         iii)  USE
