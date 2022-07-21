@@ -3,14 +3,14 @@ The queries in this section must be executed in sequence of their serial number 
 It covers topics like:
 
 1)  Datatypes
-        i)    INT
-        ii)   SMALL INT
-        iii)  DECIMAL
-        iv)   MONEY
-        v)    FLOAT
-        vi)   CHAR
-        vii)  VARCHAR
-        viii) TEXT
+        i)      INT
+        ii)     SMALL INT
+        iii)    DECIMAL
+        iv)     MONEY
+        v)      FLOAT
+        vi)     CHAR
+        vii)    VARCHAR
+        viii)   TEXT
     
 2)  Data Definition Language (DDL)
         i)    CREATE
