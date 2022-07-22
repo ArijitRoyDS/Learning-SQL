@@ -36,7 +36,7 @@ It covers topics like:
         i)    GRANT
         ii)   REVOKE
     
-6)  SQL Clauses
+6)  Clauses
 
         i)    WHERE
         ii)   LIKE
@@ -55,7 +55,7 @@ It covers topics like:
         v)    CROSS JOIN
         vi)   Self Join
 
-8)  SQL Operators
+8)  Operators
 
         i)    %, +, -, /, *
         ii)   <>, !=, >, <, >=, <=, =
@@ -91,7 +91,7 @@ It covers topics like:
 
 12) VIEW
 
-13) SQL Functions
+13) Functions
 
 14) Transactional Control Language (TCL)
 
